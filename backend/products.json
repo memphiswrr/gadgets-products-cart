@@ -1,0 +1,64 @@
+{
+  "products": [
+    {
+      "id": "1",
+      "title": "Wireless Headphones",
+      "price": 1499,
+      "image": "https://cdn.pixabay.com/photo/2018/09/17/14/27/headphones-3683983_640.jpg"
+    },
+    {
+      "id": "2",
+      "title": "Bluetooth Speaker",
+      "price": 2199,
+      "image": "https://cdn.pixabay.com/photo/2021/07/27/15/16/speaker-6497177_640.jpg"
+    },
+    {
+      "id": "3",
+      "title": "Smart Watch",
+      "price": 4446,
+      "image": "https://cdn.pixabay.com/photo/2017/07/31/21/59/apple-2561475_640.jpg"
+    },
+    {
+      "id": "4",
+      "title": "Gaming Mouse",
+      "price": 799,
+      "image": "https://media.istockphoto.com/id/1097373680/photo/gaming-mouse.jpg?s=612x612&w=0&k=20&c=Vl6jH8ydyNYgohbFg-lIwOTYd_q_H8v_jVFphTEokmM="
+    },
+    {
+      "id": "5",
+      "title": "Mechanical Keyboard",
+      "price": 2499,
+      "image": "https://cdn.pixabay.com/photo/2022/08/14/16/39/keyboard-7386244_640.jpg"
+    },
+    {
+      "id": "6",
+      "title": "USB Flash Drive 44GB",
+      "price": 999,
+      "image": "https://cdn.pixabay.com/photo/2017/08/07/17/16/flashdisk-2605880_640.jpg"
+    },
+    {
+      "id": "7",
+      "title": "Laptop Stand",
+      "price": 1349,
+      "image": "https://imgs.search.brave.com/U1C2zKVaCT8tWoUvhrM4SwSB9nhsLeLCVSx8Vl-17Rs/rs:fit:860:0:0:0/g:ce/aHR0cHM6Ly9tLm1l/ZGlhLWFtYXpvbi5j/b20vaW1hZ2VzL0kv/NjFrbms0cUN4WEwu/anBn"
+    },
+    {
+      "id": "8",
+      "title": "Noise Cancelling Earbuds",
+      "price": 2799,
+      "image": "https://imgs.search.brave.com/jDwADGCc1aShNC-j8cRPb13yfcNK1s3VpF_50l4q5Cc/rs:fit:860:0:0:0/g:ce/aHR0cHM6Ly9jZG4u/bW9zLmNtcy5mdXR1/cmVjZG4ubmV0L3FX/c1VlMmRnbzhGakNy/YmVIVGJoaG4uanBn"
+    },
+    {
+      "id": "9",
+      "title": "Portable Charger 10000mAh",
+      "price": 1099,
+      "image": "https://imgs.search.brave.com/fYHMMfZS7yfWPyO2kViq5XDyuMZai3S5GYy1j8nnP6g/rs:fit:860:0:0:0/g:ce/aHR0cHM6Ly9tLm1l/ZGlhLWFtYXpvbi5j/b20vaW1hZ2VzL0kv/NTFrS0tWb2N1QUwu/anBn"
+    },
+    {
+      "id": "10",
+      "title": "Smartphone Tripod",
+      "price": 899,
+      "image": "https://imgs.search.brave.com/CmL5iYqxJuJkXFG2cxw5mrOVcmHHDfrh5EkSjIQHKes/rs:fit:500:0:0:0/g:ce/aHR0cHM6Ly9jZG4u/bW9zLmNtcy5mdXR1/cmVjZG4ubmV0L05m/M3NmcWU1dHlFaVNv/UlY2MlFzQVguanBn"
+    }
+  ]
+}
